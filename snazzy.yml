@@ -3,32 +3,32 @@ draw_bold_text_with_bright_colors: true
 colors:
 
   primary:
-    background: '0x282a36'
-    foreground: '0xeff0eb'
+    background: '#282a36'
+    foreground: '#eff0eb'
 
   cursor:
-    cursor: '0x97979b'
+    cursor: '#97979b'
 
   selection:
-    text:       '0x282a36'
-    background: '0xfeffff'
+    text:       '#282a36'
+    background: '#feffff'
 
   normal:
-    black:   '0x282a36'
-    red:     '0xff5c57'
-    green:   '0x5af78e'
-    yellow:  '0xf3f99d'
-    blue:    '0x57c7ff'
-    magenta: '0xff6ac1'
-    cyan:    '0x9aedfe'
-    white:   '0xf1f1f0'
+    black:   '#282a36'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#f1f1f0'
 
   bright:
-    black:   '0x686868'
-    red:     '0xff5c57'
-    green:   '0x5af78e'
-    yellow:  '0xf3f99d'
-    blue:    '0x57c7ff'
-    magenta: '0xff6ac1'
-    cyan:    '0x9aedfe'
-    white:   '0xeff0eb'
+    black:   '#686868'
+    red:     '#ff5c57'
+    green:   '#5af78e'
+    yellow:  '#f3f99d'
+    blue:    '#57c7ff'
+    magenta: '#ff6ac1'
+    cyan:    '#9aedfe'
+    white:   '#eff0eb'

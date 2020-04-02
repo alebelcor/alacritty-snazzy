@@ -4,7 +4,7 @@
 
 ![Image of a terminal displaying the Snazzy theme colors](screenshot.png)
 
-Last update for version: `0.3.2`
+Last update for version: `0.4.2`
 
 ## Install
 
