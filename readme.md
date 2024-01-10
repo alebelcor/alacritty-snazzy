@@ -4,11 +4,11 @@
 
 ![Image of a terminal displaying the Snazzy theme colors](screenshot.png)
 
-Last update for version: `0.4.2`
+Last update for version: `0.13.0`
 
 ## Install
 
-- Copy the contents of `snazzy.yml` to your `alacritty.yml` configuration file.
+- Copy the contents of `snazzy.toml` to your `alacritty.toml` configuration file (or `.yml` for older alacritty versions).
 
 ## Related
 
