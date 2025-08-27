@@ -1,3 +1,11 @@
+# Deprecated
+
+![No Maintenance Intended](https://img.shields.io/maintenance/no/2020.svg)
+
+I use [Ghostty](https://ghostty.org/) now.
+
+- - -
+
 # alacritty-snazzy
 
 >Elegant [Alacritty](https://github.com/jwilm/alacritty/) theme with bright colors
